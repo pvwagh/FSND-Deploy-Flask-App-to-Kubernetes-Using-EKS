@@ -56,7 +56,7 @@ Parameters:
 
   KubectlRoleName:
     Type: String
-    Default: 
+    Default: eksctl-simple-jwt-api-nodegroup-n-NodeInstanceRole-16FEWCJFY1HP
     Description: IAM role used by kubectl to interact with EKS cluster
     MinLength: 3
     MaxLength: 100
